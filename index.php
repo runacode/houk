@@ -1,7 +1,7 @@
-<?php $company = "T AND M LANDSCAPING";
-$phone = "(719) 948-1559";
-	$address1 = "563 S PUEBLO BLVD";
-	$address2 = "PUEBLO, CO 81005";
+<?php $company = "HOUK LANDSCAPES LLC";
+$phone = "(440) 346-1951";
+	$address1 = "9361 CANTERBURY LN";
+	$address2 = "MENTOR, OH 44060";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
